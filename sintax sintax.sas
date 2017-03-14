@@ -1,3 +1,4 @@
 * veamos que pasa en github;
 
-sashelp.class
+proc print data=sashelp.class;
+run;
